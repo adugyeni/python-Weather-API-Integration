@@ -1,6 +1,6 @@
 ## Python-Weather-API-Integration
 This a Python script that interacts with
-an external API to fetch and display weather data
+an external API to fetch and display weather data about a specific city from the OpenWeatherMap site.
 
 ### Objectives
 - Use the requests library to make GET requests to an API.
